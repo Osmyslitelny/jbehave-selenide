@@ -1,0 +1,16 @@
+com\epam\e3s\test\ui\framework\utils\jbehave\Ihihih.class
+com\epam\e3s\test\ui\framework\webdriver\selenoid\SelenoidPropertiesConfig.class
+com\epam\e3s\test\ui\framework\jbehave\configuration\spring\PropertiesConfiguration.class
+com\epam\e3s\test\ui\framework\jbehave\configuration\jbehave\StoriesConfiguration.class
+com\epam\e3s\test\ui\framework\jbehave\steps\LifecycleSteps.class
+com\epam\e3s\test\ui\framework\property\PropertyLoader.class
+steps\MySteps2.class
+com\epam\e3s\test\ui\framework\jbehave\params\StringParameterConverter.class
+com\epam\e3s\test\ui\framework\webdriver\selenoid\SelenideProperty.class
+com\codeborne\selenide\impl\StaticConfig.class
+com\epam\e3s\test\ui\framework\jbehave\configuration\spring\JbehaveStepsConfiguration.class
+steps\MySteps.class
+com\epam\e3s\test\ui\framework\utils\spring\SpringUtil.class
+com\epam\e3s\test\ui\framework\jbehave\configuration\jbehave\StoriesConfiguration$1.class
+com\epam\e3s\test\ui\framework\webdriver\selenide\WebDriverInitializerImpl.class
+com\epam\e3s\test\ui\framework\utils\jbehave\CurrentJbehaveContextInfo.class
